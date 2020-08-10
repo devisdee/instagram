@@ -10,30 +10,30 @@ class Home extends StatefulWidget {
 }
 
 List<Story> _story = [
-  Story('assets/images/5 (1).jpg', 'Monica', Color(0xFF8e44ad)),
+  Story('assets/images/5 (1).jpg', 'Mica', Color(0xFF8e44ad)),
   Story('assets/images/8.jpg', 'Sophi', Colors.grey),
   Story('assets/images/8i.jpg', 'Vidhu', Color(0xFF8e44ad)),
   Story('assets/images/14.jpg', 'Priya', Colors.grey),
   Story('assets/images/DSC4604.jpg', 'Mayu', Color(0xFF8e44ad)),
-  Story('assets/images/DSC5543.jpg', 'Dhruvi', Colors.grey)
+  Story('assets/images/DSC5543.jpg', 'Dhvi', Colors.grey)
 ];
 
 List<Post> _post = [
-  Post('assets/images/1 (2).jpg', 'Monica', 'Dubai', '5 min ago',
+  Post('assets/images/1 (2).jpg', 'Mica', 'Dubai', '5 min ago',
       'assets/images/DSC8174.jpg', '112', '85'),
   Post('assets/images/DSC8231.jpg', 'Sophiya', 'Bangkok', '1 mins ago',
       'assets/images/DSC8215.jpg', '225', '100'),
-  Post('assets/images/DSC8205.jpg', 'Aashruti', 'Caliphis', '10 sec. ago',
+  Post('assets/images/DSC8205.jpg', 'Aashu', 'Caliphis', '10 sec. ago',
       'assets/images/DSC4604.jpg', '1411', '631'),
-  Post('assets/images/both-3.jpg', 'Binu', 'New York', '10 sec. ago',
+  Post('assets/images/both-3.jpg', 'Binus', 'New York', '10 sec. ago',
       'assets/images/both-6.jpg', '9111', '31'),
   Post('assets/images/DSC8210.jpg', 'vidhu', 'Londan', '2 hour ago',
       'assets/images/DSC8196.jpg', '19k', '4k'),
   Post('assets/images/IMG_3326.jpg', 'Ruhani', 'Chicago', '1 hour ago',
       'assets/images/IMG_3396.jpg', '111', '31'),
-  Post('assets/images/IMG_5971.jpg', 'Jensi', 'New Jersey', 'recent ',
+  Post('assets/images/IMG_5971.jpg', 'Jeni', 'New Jersey', 'recent ',
       'assets/images/IMG_6170.jpg', '9', '1'),
-  Post('assets/images/kynd-2.jpeg', 'Hiral', 'Wisconsin', '15 mins. ago',
+  Post('assets/images/kynd-2.jpeg', 'Hil', 'Wisconsin', '15 mins. ago',
       'assets/images/MG_0842.jpg', '10k', '5k'),
 ];
 
